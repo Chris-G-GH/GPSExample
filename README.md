@@ -1,2 +1,1 @@
-# GPSExample
-droid
+# GPSExample in class
